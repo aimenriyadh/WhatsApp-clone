@@ -1,3 +1,7 @@
+This is a simple WhatsApp clone using Dart & Flutter & Provider.
+
+URL for Video that show the App https://www.facebook.com/100039166004497/videos/552998179817615/
+
 ![Screenshot_2022-04-23-21-36-37-19_6769614b645d12f9e0d1169413bc9655](https://user-images.githubusercontent.com/101535118/164943773-07f5a24a-12e0-43e3-815c-9d0c0e4fb60f.jpg)
 ![Screenshot_2022-04-23-21-36-42-84_6769614b645d12f9e0d1169413bc9655](https://user-images.githubusercontent.com/101535118/164943775-6d5b40c5-1669-4308-a7a0-c4b2bbb14f94.jpg)
 ![Screenshot_2022-04-23-21-37-06-56_6769614b645d12f9e0d1169413bc9655](https://user-images.githubusercontent.com/101535118/164943780-ff9ade1b-ea3c-40fe-9999-34a6f112c4d5.jpg)
