@@ -1,4 +1,11 @@
-This is a simple WhatsApp clone using Dart & Flutter & Provider.
+This is a simple WhatsApp clone UI which contain :
+- Main page for all Chats
+- Chat content page
+- Story Page 
+- Setting Page
+- Profile page .
+
+Developed using Dart, Flutter, Provider .
 
 URL for Video that show the App https://www.facebook.com/100039166004497/videos/552998179817615/
 
