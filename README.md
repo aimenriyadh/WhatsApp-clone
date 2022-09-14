@@ -2,7 +2,7 @@ This is a simple WhatsApp clone UI which contain :
 - Main page for all Chats
 - Chat content page
 - Story Page 
-- Setting Page
+- Settings Page
 - Profile page .
 
 Developed using Dart, Flutter, Provider .
