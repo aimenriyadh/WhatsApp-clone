@@ -7,7 +7,7 @@ This is a simple WhatsApp clone UI which contain :
 
 Developed using Dart, Flutter, Provider .
 
-URL for Video that show the App https://www.facebook.com/100039166004497/videos/552998179817615/
+URL for Video that show the App https://www.linkedin.com/posts/mohamed-hashim-3b2ab2235_flutter-mobileappdevelopment-activity-6963636690800250880-cy0W?utm_source=share&utm_medium=member_desktop
 
 ![Screenshot_2022-04-23-21-36-37-19_6769614b645d12f9e0d1169413bc9655](https://user-images.githubusercontent.com/101535118/164943773-07f5a24a-12e0-43e3-815c-9d0c0e4fb60f.jpg)
 ![Screenshot_2022-04-23-21-36-42-84_6769614b645d12f9e0d1169413bc9655](https://user-images.githubusercontent.com/101535118/164943775-6d5b40c5-1669-4308-a7a0-c4b2bbb14f94.jpg)
